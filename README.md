@@ -8,7 +8,7 @@ Apache POI | Log4J | OOPS | Selenium GRID | Selenium - Java | XPath | UDEMY ->  
 4. Selenium Grid
 5. Selenium - Java
 6. XPath
-7. UDEMY - RS - Cypress
-8. UDEMY - RS - Playwright
-9. UDEMY - KO - Playwright
+7. UDEMY - RS - Cypress (Summary)
+8. UDEMY - RS - Playwright (Summary)
+9. UDEMY - KO - Playwright (Summary)
 
