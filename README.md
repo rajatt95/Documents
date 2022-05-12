@@ -1,5 +1,5 @@
 # Documents
-Apache POI | Log4J | OOPS | Selenium GRID | TMB - Selenium - Java | UDEMY ->  SK-XPath | UDEMY (Summary)-> , RS-Cypress, RS-Playwright, KO-Playwright | UDEMY -> Programming language: RS-Javascript
+Apache POI | Log4J | OOPS | Selenium GRID | TMB - Selenium - Java | UDEMY ->  SK-XPath | UDEMY (Summary)-> RS-Cypress, RS-Playwright, KO-Playwright | UDEMY -> Programming language: RS-Javascript
 
 ----------------------
 1. Apache POI
