@@ -5,6 +5,7 @@
 3. UDEMY ->  SK-XPath, RB-Chrome_DevTools Basics  
 4. UDEMY (Summary)-> , RS-Cypress, RS-Playwright, KO-Playwright 
 5. UDEMY -> Programming language: RS-Javascript, OC-Java | UDEMY -> Testing Framework: TWI-PyTest 
+6. Youtube -> TMB - Github Actions in Test Automation
 ----------------------
 1. Apache POI
 2. Log4J
@@ -19,3 +20,4 @@
 11. UDEMY - Programming language - Omprakash Chavan - Java
 12. UDEMY - Testing Framework - Testing World InfoTech - PyTest
 13. UDEMY - Rocco Balsamo - Devtools Pro: The Basics of Chrome Developer Tools
+14. Youtube - Testing Mini Bytes - Github Actions in Test Automation
