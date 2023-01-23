@@ -1,13 +1,13 @@
 # Documents
 ----------------------
-# Courses (Udemy, YouTube) and Others
+# Courses (UDEMY | Youtube) and Others
 ----------------------
-1. Apache POI
-2. Log4J
-3. OOPS
-4. Selenium Grid
-5. Selenium - Java
-6. XPath
+1. Rajat - Apache POI
+2. Rajat - Log4J
+3. Rajat - OOPS
+4. Rajat - Selenium Grid
+5. Testing Mini Bytes - Amuthan Sakhtivel - Selenium-Java
+6. UDEMY - Sanjay Kumar - XPath
 7. UDEMY - Rahul Shetty - Cypress (Summary) 
 8. UDEMY - Rahul Shetty - Playwright (Summary)
 9. UDEMY - Kaniel Outis - Playwright (Summary)
@@ -23,7 +23,7 @@
 19. Youtube - Pavan Kumar - Manual Testing (Full Course)
 
 ----------------------
-# YouTube @rajatt95
+# <a href="https://www.youtube.com/@rajatt95"> YouTube @rajatt95 </a>
 ----------------------
 
 To be updated .....
