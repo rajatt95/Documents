@@ -26,4 +26,6 @@
 # <a href="https://www.youtube.com/@rajatt95"> YouTube @rajatt95 </a>
 ----------------------
 
-To be updated .....
+1. Playlist - Software Testing | Interview Preparation and Tips | 01_Introduction to Interviewer
+----
+More To be updated .....
