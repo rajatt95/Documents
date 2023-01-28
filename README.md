@@ -26,6 +26,7 @@
 # <a href="https://www.youtube.com/@rajatt95"> YouTube @rajatt95 </a>
 ----------------------
 
-1. Playlist - Software Testing | Interview Preparation and Tips | 01_Introduction to Interviewer
+1. Software Testing | Interview Preparation and Tips | 01_Introduction to Interviewer
+2. Software Testing | Software Testing | Tutorial | Design Pattern | Page Object Model | 01 - What | Why | How?
 ----
 More To be updated .....
