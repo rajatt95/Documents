@@ -27,6 +27,14 @@
 ----------------------
 
 1. Software Testing | Interview Preparation and Tips | 01_Introduction to Interviewer
-2. Software Testing | Software Testing | Tutorial | Design Pattern | Page Object Model | 01 - What | Why | How?
+2. Software Testing | Tutorial | Design Pattern | Page Object Model | 01 - What | Why | How?
+3. Software Testing | Softwares Setup | OS | MAC | JAVA
+4. Software Testing | Softwares Setup | OS | MAC | Maven
+5. Software Testing | Softwares Setup | OS | MAC | IntelliJ IDE
+6. Software Testing | Softwares Setup | OS | MAC | Eclipse IDE
+7. Software Testing | Softwares Setup | OS | WIN | JAVA
+8. Software Testing | Softwares Setup | OS | WIN | Maven
+9. Software Testing | Softwares Setup | OS | WIN | IntelliJ IDE
+10. Software Testing | Softwares Setup | OS | WIN | Eclipse IDE
 ----
 More To be updated .....
