@@ -36,5 +36,15 @@
 8. Software Testing | Softwares Setup | OS | WIN | Maven
 9. Software Testing | Softwares Setup | OS | WIN | IntelliJ IDE
 10. Software Testing | Softwares Setup | OS | WIN | Eclipse IDE
+11. Software Testing | Tutorial | Maven | 01 - What | Why | How?
+12. Software Testing | Tutorial | Maven | 02 - Project Structure | pom.xm
+13. Software Testing | Tutorial | TestNG | Part 01 - What | Why | How?
+14. Software Testing | Interview Preparation and Tips | 02 - Github Pages | Personal Website
+15. Software Testing | Tutorial | POM | Selenium WebDriver + Java | 02 - Implement without Page Factories
+16. Software Testing | Tutorial | POM | Selenium WebDriver + Java | 03 - Implement with Page Factories
+17. Software Testing | Tutorial | POM | Selenium WebDriver + Java | 04 - Builder Pattern
+18. Software Testing | Tutorial | POM | Selenium WebDriver + Java | 05 - Fluent Interface
+19. Software Testing | Tutorial | POM | Selenium WebDriver + Java | 06 - Handle Components
+    
 ----
 More To be updated .....
