@@ -38,30 +38,30 @@
 | **Omprakash Chavan**       | Programming Language (Java)                           |
 | **Testing World InfoTech** | Testing Framework (PyTest)                            |
 | **Rocco Balsamo**          | Devtools Pro: Basics                                  |
-| **Rahul Shetty**           | Cypress (Summary) <br> Playwright (Summary) <br> Programming Language (JavaScript) |
+| **Rahul Shetty**           | 1. Cypress (Summary) <br> 2. Playwright (Summary) <br> 3. Programming Language (JavaScript) |
 
 
 ## 📑 **Courses (YouTube)**
 
 | 📺 **Instructor**                                 | 📋 **YouTube Channel**                              | 📚 **Courses**                                             |
 | ------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------- |
-| **Amuthan Sakhtivel**                             | Testing Mini Bytes | Selenium Zero to Hero <br> Github Actions in Test Automation |
-| **Pavan Kumar**                                 | SDET- QA | Manual Testing (Full Course) <br> Manual Testing 01 - (Theory) <br> Manual Testing 02 - (Practical) <br> Manual Testing 03 - (Agile) <br> Manual Testing 04 - (JIRA)|
+| **Amuthan Sakhtivel**                             | Testing Mini Bytes                                 | 1. Selenium Zero to Hero <br> 2. Github Actions in Test Automation |
+| **Pavan Kumar**                                 | SDET- QA                                             | 1. Manual Testing (Full Course) <br> a. Theory <br> b. Practical <br>  c. Agile <br> d. JIRA|
   
 ## 🎥 Youtube Playlists (Rajat Verma)
 
 | 🎓 **Playlist**           | 📚 **Topics**                                                                            |
 | -------------------------- | -----------------------------------------------------                                 |
-| **Interview Preparation and Tips**           | Introduction to Interviewer <br>   Github Pages - Personal Website |
-| **Softwares Setup - OS: MAC**           | JAVA <br> Maven <br> IntelliJ IDE <br> Eclipse IDE <br> Node JS <br> VS Code IDE |
-| **Softwares Setup - OS: WIN**           | JAVA <br> Maven <br> IntelliJ IDE <br> Eclipse IDE <br> Node JS <br> VS Code IDE |
-| **Tutorials - Build Automation Tool: Maven**           | What, Why and How <br> Project Structure and pom.xml |
-| **Tutorials - Testing Framework: TestNG**           | What, Why and How |
-| **Tutorials - Design Pattern: Page Object Model**           | What, Why and How |
-| **Tutorials - POM: Selenium WebDriver + Java**           | Implement without Page Factories <br> Implement with Page Factories <br> Builder Pattern <br> Fluent Interface <br> Handle Components|
-| **Test Automation Framework - WEB: Cypress + JS**           |  Framework Overview <br> Setup Cypress <br> Project Structure <br> Automate Login flow<br> Execution in different browsers <br> Test Runner <br>  Reporting <br> Cypress Custom Command <br> XPath Plugin <br> Tagging <br> Fixtures <br> POM (Pages) <br> POM (Application Components) <br> Base Page (Click, Fill, Mouse Hover) <br> Utilities (Retries, Videos) <br> CI (Github Actions) <br> Code Comment <br> README.md file <br> |
+| **Interview Preparation and Tips**           | 1. Introduction to Interviewer <br>   2. Github Pages - Personal Website |
+| **Softwares Setup - OS: MAC**           | 1. JAVA <br> 2. Maven <br> 3. IntelliJ IDE <br> 4. Eclipse IDE <br> 5. Node JS <br> 6. VS Code IDE |
+| **Softwares Setup - OS: WIN**           | 1. JAVA <br> 2. Maven <br> 3. IntelliJ IDE <br> 4. Eclipse IDE <br> 5. Node JS <br> 6. VS Code IDE |
+| **Tutorials - Build Automation Tool: Maven**           | 1. What, Why and How <br> 2. Project Structure and pom.xml |
+| **Tutorials - Testing Framework: TestNG**           | 1. What, Why and How |
+| **Tutorials - Design Pattern: Page Object Model**           | 1. What, Why and How |
+| **Tutorials - POM: Selenium WebDriver + Java**           | 1. Implement without Page Factories <br> 2. Implement with Page Factories <br> 3. Builder Pattern <br> 4. Fluent Interface <br> 5. Handle Components|
+| **Test Automation Framework - WEB: Cypress + JS**           |  1. Framework Overview <br> 2. Setup Cypress <br> 3. Project Structure <br> 4. Automate Login flow<br> 5. Execution in different browsers <br> 6. Test Runner <br>  7. Reporting <br> 8. Cypress Custom Command <br> 9. XPath Plugin <br> 10. Tagging (Sanity, Regression) <br> 11. Fixtures <br> 12. POM (Pages) <br> 13. POM (Application Components) <br> 14. Base Page (Click, Fill, Mouse Hover) <br> 15. Utilities (Retries, Videos) <br> 16. CI (Github Actions) <br> 17. Code Comment <br> 18. README.md file <br> |
 
-## 📑 Other sources (Rajat)
+## 📑 Others (Rajat)
 
 | 📚 **Topics**                                        |
 | ----------------------------------------------------- |
