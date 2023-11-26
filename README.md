@@ -45,6 +45,11 @@
 17. Software Testing | Tutorial | POM | Selenium WebDriver + Java | 04 - Builder Pattern
 18. Software Testing | Tutorial | POM | Selenium WebDriver + Java | 05 - Fluent Interface
 19. Software Testing | Tutorial | POM | Selenium WebDriver + Java | 06 - Handle Components
+20. Software Testing | Softwares Setup | OS | MAC | Node JS
+21. Software Testing | Softwares Setup | OS | MAC | VS Code IDE
+22. Software Testing | Softwares Setup | OS | WIN | Node JS
+23. Software Testing | Softwares Setup | OS | WIN | VS Code IDE
+
     
 ----
 More To be updated .....
